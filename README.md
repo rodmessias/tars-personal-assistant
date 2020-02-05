@@ -6,13 +6,13 @@ Baseado no robô do filme interestelar de 2014. O Tars é um dos quatro ex-robô
 
 
 ## Bibliotecas utilizadas
-random
-speech_recognition
-gtts
-pygame
-datetime
+* random
+* speech_recognition
+* gtts
+* pygame
+* datetime
 
 ## funções adicionadas
-Reconhecimento de voz
-Saudação
-Responde a pergunta "quem é você?"
+* Reconhecimento de voz
+* Saudação
+* Responde a pergunta "quem é você?"
